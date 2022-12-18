@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="Hint">Input Temperature</string>
+    <string name="Cel">Celcius</string>
+</resources>
